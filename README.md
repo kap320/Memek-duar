@@ -18,5 +18,5 @@ yarn dev # or npm run dev # or pnpm dev
 
 # Setup project
 
- Ryuzein aji
+ shallow team
 
