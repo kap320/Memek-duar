@@ -3,17 +3,17 @@ import { BsGithub, BsInstagram, BsTwitter } from "react-icons/bs";
 const SocialMedia = [
   {
     sosmedName: "Github",
-    sosmedPath: "https://github.com/romaaji",
+    sosmedPath: "https://youtube.com/shallowteam",
     sosmedIcon: <BsGithub />,
   },
   {
     sosmedName: "Instagram",
-    sosmedPath: "https://instagram.com/romadhonaji22",
+    sosmedPath: "https://instagram.com/shallowteam",
     sosmedIcon: <BsInstagram />,
   },
   {
     sosmedName: "Twitter",
-    sosmedPath: "https://twitter.com/romadhonaji1",
+    sosmedPath: "https://twitter.com/shallowteam",
     sosmedIcon: <BsTwitter />,
   },
 ];
