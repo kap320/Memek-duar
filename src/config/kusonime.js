@@ -1,2 +1,2 @@
-const KUSONIME_API = "https://otakudesu.io/";
+const KUSONIME_API = "https://kusonime.com/";
 export default KUSONIME_API;
